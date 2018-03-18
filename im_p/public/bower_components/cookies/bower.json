@@ -1,0 +1,26 @@
+{
+  "name": "cookies",
+  "description": "A library to browser that allowing control cookies.",
+  "version": "1.0.0",
+  "main": "lib/cookies.js",
+  "authors": [
+    "Jon Dotsoy <hi@jon.soy>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "cookie",
+    "library",
+    "browser"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "homepage": "https://github.com/JonDotsoy/cookies",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

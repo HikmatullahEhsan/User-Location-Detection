@@ -1,0 +1,35 @@
+{
+  "name": "cookies",
+  "private": true,
+  "description": "A library to browser that allowing control cookies.",
+  "scripts": {
+    "build": "gulp babel",
+    "watch": "gulp watch"
+  },
+  "author": "Jon Dotsoy <hi@jon.soy>",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.1.18",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.0",
+    "gulp-util": "^3.0.7"
+  },
+  "main": "lib/cookies.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonDotsoy/cookies.git"
+  },
+  "keywords": [
+    "Browser",
+    "Cookie",
+    "library"
+  ],
+  "bugs": {
+    "url": "https://github.com/JonDotsoy/cookies/issues"
+  },
+  "homepage": "https://github.com/JonDotsoy/cookies#readme"
+}
