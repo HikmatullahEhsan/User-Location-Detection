@@ -1,5 +1,5 @@
 <?php 
-
+// it is a comment
 function secret($one){
 	$i=null;
 	$prod= 1;
