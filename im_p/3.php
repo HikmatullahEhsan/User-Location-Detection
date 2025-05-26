@@ -1,5 +1,5 @@
 <?php 
-
+// a simple function
 function secret($one){
 	$i=null;
 	$prod= 1;
